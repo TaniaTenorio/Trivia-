@@ -13,4 +13,4 @@
 
 **¡Ponte a prueba!**
 
-![Imagen de Trivia](FotoTrivia.png)
+![Imagen de Trivia](CapturaTrivia.png)

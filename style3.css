@@ -26,8 +26,15 @@ p {
 .respuestas{
   padding:10px;
 }
-.boton {
-  background-color: rgb(53, 143, 26);
+.button {
+background-color: #f44336;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-size: 16px;
+  border-radius: 12px;
+}
+.boton{
+  background-color: rgb(141, 14, 141);
   border: none;
   color: white;
   padding: 15px 32px;
@@ -36,12 +43,7 @@ p {
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: o.5s;
-}
-.boton:hover{
-  background: white;
-  border: 1px solid rgb(53, 143, 26);
-  color: black;
-  cursor: pointer;
+  border-radius: 12px;
 }
 .siguiente{
   color:white;
@@ -53,6 +55,7 @@ p {
   text-decoration: none;
   position:relative;
   left:250px;
+  border-radius: 12px;
 }
 .respuestas{
   color:red;

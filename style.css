@@ -47,12 +47,14 @@ body h3 {
   left:30px;
   border-radius: 12px;
  }
+
 .desaparecer{display:none}
 
 #after_submit {
   visibility: hidden;}
+
 .button {
-background-color: #4CAF50;
+background-color: #f44336;
   padding: 12px 28px;
   border-radius: 8px;
   font-size: 16px;

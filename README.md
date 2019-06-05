@@ -11,6 +11,10 @@
 
 :bear: :panda_face: :whale2:
 
+¿Qué tanto sabes de los diferentes países?
+
+ 🇫🇷 🇪🇸 🇮🇹 
+
 **¡Ponte a prueba!**
 
 ![Imagen de Trivia](CapturaTrivia.png)

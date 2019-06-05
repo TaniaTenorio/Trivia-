@@ -71,12 +71,31 @@ background-color: #f44336;
   padding: 12px 28px;
   border-radius: 8px;
   font-size: 16px;
+  border-radius: 12px;
 }
 .boton{
-  border-radius: 8px;
+  background-color: rgb(141, 14, 141);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: o.5s;
+  border-radius: 12px;
 }
 .siguiente{
-  border-radius: 8px;
+  color:white;
+  font-size: 36px;
+  background: gray;
+  padding: 5px;
+  border: 1px;
+  border-style: solid;
+  text-decoration: none;
+  position:relative;
+  left:250px;
+  border-radius: 12px;
 }
 #after_submit {
   visibility: hidden;}

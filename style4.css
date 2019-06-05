@@ -1,0 +1,52 @@
+.html{
+  background:linear-gradient(to bottom, #FADA57, white) ;
+}
+.header{
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+  color: rgb(8, 114, 236);
+  font-size: 36px;
+  border-style:outset;
+  border-width: 5px;
+  border-color: rgb(8, 8, 173);
+}
+.pregunta{
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+  font-size:25px;
+
+
+}
+.orden{
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;}
+
+  .footer{
+
+    padding:100px;
+  }
+.disney{
+  color:white;
+  font-size: 20px;
+  background: rgb(141, 14, 141);
+  padding: 10px;
+  border: none;
+  text-decoration: none;
+  position:relative;
+  left: 0px;
+}
+.animales{
+  color:white;
+  font-size: 20px;
+  background: rgb(53, 143, 26);
+  padding: 10px;
+  border: none;
+  text-decoration: none;
+  position:relative;
+  left: 30px;
+
+}

@@ -1,0 +1,63 @@
+.html{
+  background:linear-gradient(to bottom, #FADA57, white) ;
+}
+.header{
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+  color: rgb(14, 141, 67);
+  font-size: 36px;
+
+}
+.cuerpo{
+  background: white;
+  padding-bottom:40px;
+}
+p {
+  color:black;
+  font-size: 24px;
+  padding: 10px
+   }
+
+.cuerpo{
+  background: white;
+  padding-bottom:40px;
+}
+.respuestas{
+  padding:10px;
+}
+.boton {
+  background-color: rgb(53, 143, 26);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: o.5s;
+}
+.boton:hover{
+  background: white;
+  border: 1px solid rgb(53, 143, 26);
+  color: black;
+  cursor: pointer;
+}
+.siguiente{
+  color:white;
+  font-size: 36px;
+  background: gray;
+  padding: 5px;
+  border: 1px;
+  border-style: solid;
+  text-decoration: none;
+  position:relative;
+  left:250px;
+}
+.respuestas{
+  color:red;
+}
+
+#after_submit {
+  visibility: hidden;
+}

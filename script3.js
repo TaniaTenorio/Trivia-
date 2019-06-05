@@ -37,3 +37,5 @@ document.getElementById("after_submit").style.visibility = "visible";
 document.getElementById("mensaje").innerHTML = mensaje[rango];
 document.getElementById("respuestas_correctas").innerHTML = "Obtuviste " + acierto2 + " respuestas correctas!";
 }
+const button = document.getElementById("button");
+button.addEventListener("click", revisar);

@@ -13,4 +13,4 @@
 
 **¡Ponte a prueba!**
 
-![Imagen de Trivia] (https://raw.githubusercontent.com/TaniaTenorio/Trivia-/FotoTrivia.png)
+![Imagen de Trivia](FotoTrivia.png)

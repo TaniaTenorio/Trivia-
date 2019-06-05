@@ -13,4 +13,4 @@
 
 **¡Ponte a prueba!**
 
-![Imagen de Trivia] (https://raw.githubusercontent.com/TaniaTenorio/Trivia-/Screen Shot 2019-06-05 at 1.35.47 AM.png)
+![Imagen de Trivia] (https://raw.githubusercontent.com/TaniaTenorio/Trivia-/FotoTrivia.png)

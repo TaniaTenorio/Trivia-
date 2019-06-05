@@ -50,3 +50,14 @@
   left: 30px;
 
 }
+.paises{
+  color:white;
+  font-size: 20px;
+  background: rgb(4, 39, 240);
+  padding: 10px;
+  border: none;
+  text-decoration: none;
+  position:relative;
+  left:50px;
+  border-radius: 12px;
+}

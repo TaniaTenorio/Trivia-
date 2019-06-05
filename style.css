@@ -85,6 +85,12 @@ background-color: #f44336;
   transition-duration: o.5s;
   border-radius: 12px;
 }
+.boton:hover{
+  background: white;
+  border: 1px solid rgb(141, 14, 141);
+  color: black;
+  cursor: pointer;
+}
 .siguiente{
   color:white;
   font-size: 36px;

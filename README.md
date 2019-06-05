@@ -1,7 +1,7 @@
 # Trivia Reloaded
 
 
-### Diviértete y descubre que tan conocedor eres de cada una de las categorías incluidas en esta trivia.
+### Diviértete y descubre qué tan conocedor eres de cada una de las categorías incluidas en esta trivia.
 
 ¿Crees que eres un verdadero Disney fan?
 

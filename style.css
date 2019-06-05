@@ -34,7 +34,6 @@ body h3 {
   border: none;
   text-decoration: none;
   position: relative;
-  border-radius: 12px;
 }
 .animales{
   color:white;
@@ -45,8 +44,7 @@ body h3 {
   text-decoration: none;
   position:relative;
   left:30px;
-  border-radius: 12px;
-}
+ }
 .desaparecer{display:none}
 
 #after_submit {
